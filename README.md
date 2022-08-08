@@ -1,2 +1,2 @@
 # snake-pygame
-A classiacal Snake game with audio 
+A classical Snake game with audio 
